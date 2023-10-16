@@ -1,3 +1,5 @@
+
+
 public class dz2 {
 
         public static void main(String[] args) {
@@ -54,9 +56,7 @@ public class dz2 {
             emp4.info();
             emp4.imleavin();
             boss2.getComps().get(0).info();
-            boss2.info();
             boss2.sellComp(boss2.getComps().get(0));
-            boss2.info();
 
         }
     
