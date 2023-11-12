@@ -36,7 +36,7 @@ public class Persona {
         this.food += i;
         String ans = this.name +"got food + "+ i;
         System.out.println(this.name +"got food + "+ i);
-        return ans
+        return ans;
     }
     
 }
